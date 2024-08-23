@@ -1,8 +1,7 @@
-package calculadora;
+package calculadora.main;
 
 import calculadora.logica.Calculadora;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
